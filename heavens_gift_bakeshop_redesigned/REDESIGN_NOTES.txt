@@ -1,0 +1,27 @@
+HEAVEN'S GIFT BAKESHOP - UI REDESIGN
+
+This version redesigns the existing interface while preserving the existing PHP/database functionality and file structure.
+
+Main visual changes:
+- Modern bakery-inspired brown, cream, caramel, and gold theme
+- Redesigned sidebar and active navigation state
+- Glass-style topbar
+- Improved dashboard cards and welcome panel
+- Refined tables, search boxes, buttons, badges, and forms
+- Improved modal styling
+- Responsive mobile layout
+- Redesigned login page
+- Subtle hover and transition effects
+
+No existing database tables were recreated or changed by this redesign.
+
+Place the folder inside:
+C:\xampp\htdocs\
+
+Then run Apache and MySQL in XAMPP and open:
+http://localhost/heavens_gift_bakeshop_redesigned/
+
+If you want to keep the old URL, rename the extracted folder to:
+heavens_gift_bakeshop
+
+The database configuration remains the same as the uploaded project.
